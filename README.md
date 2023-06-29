@@ -1,6 +1,8 @@
 # Crud_python
 Script de Crud em python na versão 3.11.4
-Organizado em 4 arquivos, sendo 2 do tipo .py, Funcoes e Principal. Os outros 2 arquivos são Dados.txt e Backup_Dados.txt.
+
+Organizado em 4 arquivos, Principal.py, Funcoes.py, Dados.txt e Backup_Dados.txt.
+
       A) As opções do menu são as funções: Cadastrar, listar, alterar, apagar, backup e sair;
       B) Na opção Cadastrar Dados será informado todos os dados e cria o arquivo Dados.txt;
       C) Uso do tratamento de exceção em erros;
