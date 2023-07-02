@@ -1,5 +1,5 @@
-# Crud_python
-Script de Crud em python na versão 3.11.4
+# Crud em python
+Script feito em python na versão 3.11.4
 
 Organizado em 4 arquivos, Principal.py, Funcoes.py, Dados.txt e Backup_Dados.txt.
 
